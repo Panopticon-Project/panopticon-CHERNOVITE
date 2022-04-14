@@ -9,3 +9,5 @@ https://www.dragos.com/threat/chernovite/
 https://www.dragos.com/blog/industry-news/chernovite-pipedream-malware-targeting-industrial-control-systems/
 
 https://www.securityweek.com/us-warns-new-sophisticated-malware-can-target-icsscada-devices
+
+https://www.wired.com/story/pipedream-ics-malware/
